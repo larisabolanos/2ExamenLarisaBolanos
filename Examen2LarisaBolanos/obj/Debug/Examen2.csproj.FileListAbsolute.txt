@@ -1,0 +1,2 @@
+C:\Users\Larisa\Desktop\Programacion3\Examen2\Examen2\obj\Debug\Examen2.csproj.AssemblyReference.cache
+C:\Users\Larisa\Desktop\Programacion3\Examen2\Examen2\obj\Debug\Examen2.csproj.CoreCompileInputs.cache
